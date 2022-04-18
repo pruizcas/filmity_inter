@@ -1,0 +1,46 @@
+html {
+    background-color: beige;
+    }
+
+.logo{
+    margin-left: 40%;
+    margin-top: 1.2rem;
+}
+
+.logo2{
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+}
+
+.flexbox-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+#movies{
+    display: flex;
+    flex-direction: column;
+}
+
+#buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+#caratula {
+    display: flex;
+    flex-direction: column;
+}
+
+.marco {
+    width: fit-content;
+    height: fit-content;
+}
+
+#datos {
+    display: flex;
+    flex-direction: column;
+}

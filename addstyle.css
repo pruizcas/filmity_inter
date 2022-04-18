@@ -1,0 +1,26 @@
+html {
+    background-color: beige;
+    }
+
+.logo{
+        margin-left: 2rem;
+        margin-top: 1.2rem;
+    }
+    
+.logo2{
+        margin-left: 2rem;
+        margin-top: 1.5rem;
+    }
+
+.titulo {
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Codystar', cursive;
+    }
+
+form {
+    margin-top: 3%;
+    margin-left: 39%;
+}
+        
